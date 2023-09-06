@@ -11,3 +11,5 @@ Hacked RECOVERY for SKyOS (from Nokia 800Tough v40)
 ```
 * Although I replaced ramdisk/res/keys with test keys, as explained here I still can't install unsigned zips.
 * I don't know how to change the caption that is displayed in recovery mode. Does anyone know how? It is possible, in GerdaOS recovery they did it.
+
+# its modify with Android Image Kitchen
