@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
+
 # SkyOS-Recovery
 Hacked RECOVERY for SKyOS (from Nokia 800Tough v40)
 # Goals:
